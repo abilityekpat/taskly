@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:taskly/screens/authentication/welcome_page.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'firebase_options.dart';
-import 'package:taskly/screens/home_screens/add_task.dart';
-import 'package:taskly/screens/home_screens/home_page.dart';
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
